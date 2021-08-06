@@ -32,7 +32,7 @@ target/
 build/
 
 # Tiny Simulator executable.
-Tiny_Simulator
+Tiny
 
 # Mac OS dir file.
 .DS_Store
